@@ -67,3 +67,13 @@
     right: 0;
     top:20px;
 }
+.pic-b{
+    position: absolute;
+    left: 0;
+}
+.item .pi-a{
+  display: block;
+}
+.item .pic-b:hover{
+    display: none;
+}
