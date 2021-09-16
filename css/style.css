@@ -5,3 +5,21 @@
    box-sizing: border-box;
     font-family: sans-serif;
 }
+.container{
+    text-align: center;
+    width: 80%;
+    margin: 50px auto;
+}
+              /* ITEM */
+.item-row{
+    margin-bottom: 30px;
+}
+.item{
+       width: 465px;
+       display: inline-block;
+       position: relative;
+       margin-left: 10px;
+}
+.item .img img{
+    width: 100%;
+}
