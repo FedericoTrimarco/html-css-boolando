@@ -25,6 +25,7 @@
 .item h5{
     color: #4d5861;
 }
+              /* GENERAL + PRICES */
 .price{
     color: red;
     font-weight: bold;
@@ -53,6 +54,18 @@
     background-color: #00875a;
     padding: 0 10px;
 }
+         /* PRODUCT'S PHOTO */
+.pic-b{
+    position: absolute;
+    left: 0;
+}
+.item .pi-a{
+    display: block;
+}
+.item .pic-b:hover{
+    display: none;
+}
+         /* HEART */
 .heart{
     font-size: 25px;
     width: 40px;
@@ -63,16 +76,6 @@
     position: absolute;
     right: 0;
     top:20px;
-}
-.pic-b{
-    position: absolute;
-    left: 0;
-}
-.item .pi-a{
-    display: block;
-}
-.item .pic-b:hover{
-    display: none;
 }
 .heart:hover{
     color: #eb0037;
