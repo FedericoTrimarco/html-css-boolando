@@ -7,14 +7,14 @@
 }
 .container{
     width: 80%;
-    margin: 50px 500px;
+    margin: 50px auto;
 }
                 /* ITEM */
 .item-row{
     margin-bottom: 30px;
 }
 .item{
-    width: 465px;
+    width: 640px;
     display: inline-block;
     position: relative;
     margin-left: 20px;
