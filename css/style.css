@@ -55,14 +55,12 @@
     padding: 0 10px;
 }
          /* PRODUCT'S PHOTO */
-.pic-b{
+.pic-a{
     position: absolute;
     left: 0;
 }
-.item .pi-a{
-    display: block;
-}
-.item .pic-b:hover{
+
+.item .pic-a:hover{
     display: none;
 }
          /* HEART */
